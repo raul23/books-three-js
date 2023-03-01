@@ -3,6 +3,11 @@ Books about ``three.js``
 ========================
 Testing code from books about ``three.js``
 
+.. contents:: **Contents**
+   :depth: 5
+   :local:
+   :backlinks: top
+
 Learn Three.js: Program 3D animations and visualizations for the web with JavaScript and WebGL, 4th Edition (2023)
 ==================================================================================================================
 `:information_source:` 
